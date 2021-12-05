@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: yellow;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+}
+
+hr {
+	color: red;
+	background-color: blue;
+}
+
+button {
+	background-color: blue;
+	color: white;
+}
+
+table {
+	width: 100%;
+	background-color: white;
+}
+
+th {
+	background-color: green;
+	color: white;
+}
+
+td {
+	text-align: center;
+}
